@@ -3,7 +3,8 @@
 --platform=linux/amd64 redis
 
 #yapi
-mrjin/yapi:latest
+#mrjin/yapi:latest
+jayfong/yapi:1.10.2
 mongo
 
 #支持指定架构
